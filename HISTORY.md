@@ -25,3 +25,5 @@
 
 ### Others
 - Upgrade major third-party libraries such as brpc, braft, and rocksdb to the latest versions
+
+<!-- Auto-update: 2025-10-10T17:09:55.986491 -->
